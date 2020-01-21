@@ -6,18 +6,22 @@ Finally I push 🏌️
 izzi pizzi after dizzi 💫
 
 
-🐙⌨️
+:octocat: ⌨️  
+
+## :octocat:〰️📥  
 
 👨🏼‍💻  
-1️⃣ git status  
-2️⃣ git pull  https://...Therepo 🐙  
+1️⃣ git status 🔴  
+2️⃣ git pull  https://...Therepo :octocat:  📥  
 
 👨🏼‍💻👨🏼‍💻👨🏼‍💻👨🏼‍💻👨🏼‍💻  
 
+## 📤〰️:octocat:   
+
 1️⃣ git status 🔴  
-2️⃣ git add  
-3️⃣ git commit -m 'some info for whats new' 🐙  
-4️⃣ git push  
+2️⃣ git add .  
+3️⃣ git commit -m 'some info for whats new' :octocat:  
+4️⃣ git push  📤  
 🆗 git status ✔️  
 👨🏼‍💻💤  
 
