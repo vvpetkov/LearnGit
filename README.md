@@ -1,6 +1,13 @@
 # LearnGit 🔥
 ## My repo for testing Git 😊
 
+in some Folder:
+
+$ git clone https://github.com/vv...
+
+and voala ... you have it on PC
+
+
 Finally I push 🏌️
 
 izzi pizzi after dizzi 💫
@@ -35,10 +42,7 @@ YouTube 30 min [tuts](https://www.youtube.com/watch?v=SWYqp7iY_Tc&list=PLAlYo9rr
 
 # 🌊  
 
-things to learn :  
-'The current branch master has no upstream branch.
-To push the current branch and set the remote as upstream, use
-git push --set-upstream origin master'
+
 
 
 
