@@ -12,9 +12,9 @@ Finally I push 🏌️
 
 izzi pizzi after dizzi 💫
 
-cd.. // up
-ls // listing all the files
-dir // windows
+cd.. // up  
+ls // listing all the files  
+dir // windows  
 
 :octocat: ⌨️  
 
