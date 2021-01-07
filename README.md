@@ -12,6 +12,9 @@ Finally I push 🏌️
 
 izzi pizzi after dizzi 💫
 
+PS C:\Users\MY\Documents\WebDev2021> cd GitHub  
+PS C:\Users\MY\Documents\WebDev2021\GitHub>  
+
 cd.. // up  
 ls // listing all the files  
 dir // windows  
